@@ -400,7 +400,7 @@
     <string id="settings_steps" scope="settings">Steps</string>
     <string id="settings_calories" scope="settings">Calories</string>
     <string id="settings_floors_climbed" scope="settings">Floors climbed</string>
-    <string id="settings_intensity_minutes" scope="settings">Intensiy minutes</string>
+    <string id="settings_intensity_minutes" scope="settings">Intensity minutes</string>
     <string id="settings_date_2" scope="settings">Date</string>
     <string id="settings_weather" scope="settings">Weather</string>
     <string id="settings_calendar" scope="settings">Calendar</string>
